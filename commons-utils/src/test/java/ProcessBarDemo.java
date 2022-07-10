@@ -6,6 +6,10 @@ public class ProcessBarDemo {
         ProcessBar processBar = new ProcessBar();
         processBar.printProgress();
         System.out.println("进度条");
+        System.out.println("进度条");
+        System.out.println("进度条");
+
+
 
     }
 
